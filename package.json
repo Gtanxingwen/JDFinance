@@ -10,17 +10,16 @@
     "build": "webpack --env.production"
   },
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/imooc/vuejs.git"
+    "type": "github",
+    "url": "https://github.com/Gtanxingwen/JDFinance.git"
   },
   "keywords": [
     "es6",
     "component"
   ],
-  "author": "cuc_ygh@163.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/imooc/vuejs/issues"
+    "url": "https://github.com/Gtanxingwen/JDFinance/issues"
   },
   "eslintConfig": {
     "root": true,
